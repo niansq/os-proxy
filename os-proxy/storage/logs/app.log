@@ -1,0 +1,29 @@
+{"level":"prod.error","ts":"[2024-07-09 20:22:51.333]","caller":"cmd/main.go:14","msg":"server_down"}
+{"level":"prod.error","ts":"[2024-07-10 10:07:59.364]","caller":"cmd/main.go:14","msg":"server_down"}
+{"level":"prod.error","ts":"[2024-07-10 11:21:01.632]","caller":"cmd/main.go:15","msg":"server_down"}
+{"level":"prod.info","ts":"[2024-07-10 11:21:01.636]","caller":"plugins/plugins.go:36","msg":"Local Init ..."}
+{"level":"prod.info","ts":"[2024-07-10 11:21:01.636]","caller":"plugins/plugins.go:38","msg":"Local HealthCheck ..."}
+{"level":"prod.info","ts":"[2024-07-10 11:21:01.636]","caller":"plugins/plugins.go:40","msg":"Local Success Init"}
+{"level":"prod.info","ts":"[2024-07-10 11:21:01.636]","caller":"plugins/plugins.go:51","msg":"Local Close"}
+{"level":"prod.error","ts":"[2024-07-10 12:02:27.371]","caller":"cmd/main.go:15","msg":"server_down"}
+{"level":"prod.info","ts":"[2024-07-10 12:02:27.375]","caller":"plugins/plugins.go:36","msg":"Local Init ..."}
+{"level":"prod.info","ts":"[2024-07-10 12:02:27.375]","caller":"plugins/plugins.go:38","msg":"Local HealthCheck ..."}
+{"level":"prod.info","ts":"[2024-07-10 12:02:27.375]","caller":"plugins/plugins.go:40","msg":"Local Success Init"}
+{"level":"prod.info","ts":"[2024-07-10 12:02:27.375]","caller":"plugins/plugins.go:36","msg":"Redis Init ..."}
+{"level":"prod.info","ts":"[2024-07-10 12:02:27.375]","caller":"plugins/plugins.go:38","msg":"Redis HealthCheck ..."}
+{"level":"prod.info","ts":"[2024-07-10 12:02:27.377]","caller":"plugins/plugins.go:40","msg":"Redis Success Init"}
+{"level":"prod.info","ts":"[2024-07-10 12:02:27.377]","caller":"plugins/plugins.go:51","msg":"Local Success Close"}
+{"level":"prod.info","ts":"[2024-07-10 12:02:27.377]","caller":"plugins/plugins.go:51","msg":"Redis Success Close"}
+{"level":"prod.error","ts":"[2024-07-10 15:43:59.223]","caller":"cmd/main.go:15","msg":"server_down"}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.248]","caller":"plugins/plugins.go:36","msg":"DB Init ..."}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.721]","caller":"plugins/plugins.go:38","msg":"DB HealthCheck ..."}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.721]","caller":"plugins/plugins.go:40","msg":"DB Success Init"}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.721]","caller":"plugins/plugins.go:36","msg":"Local Init ..."}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.721]","caller":"plugins/plugins.go:38","msg":"Local HealthCheck ..."}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.721]","caller":"plugins/plugins.go:40","msg":"Local Success Init"}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.721]","caller":"plugins/plugins.go:36","msg":"Redis Init ..."}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.721]","caller":"plugins/plugins.go:38","msg":"Redis HealthCheck ..."}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.722]","caller":"plugins/plugins.go:40","msg":"Redis Success Init"}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.723]","caller":"plugins/plugins.go:51","msg":"Local Success Close"}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.723]","caller":"plugins/plugins.go:51","msg":"Redis Success Close"}
+{"level":"prod.info","ts":"[2024-07-10 15:43:59.723]","caller":"plugins/plugins.go:51","msg":"DB Success Close"}
